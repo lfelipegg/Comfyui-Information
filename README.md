@@ -13,6 +13,7 @@
 | #   | Comfyui Workflow | Go                                                                 |
 | --- | ---------------- | ------------------------------------------------------------------ |
 | 1   | SDXL - Basic     | [Go to Workflow](./1-Basic_Workflow_SDXL/1-Basic_Workflow_SDXL.md) |
+| 2   | SDXL - Hires Fix | [Go to Workflow](./2-Hires_Fix_SDXL/2-Hires_Fix_SDXL.md)           |
 
 ## What is Comfyui
 
