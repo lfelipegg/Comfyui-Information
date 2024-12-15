@@ -2,10 +2,12 @@
 
 ## Download
 
-| File            | Download                             |
-| --------------- | ------------------------------------ |
-| Workflow - JSON | [Download](./2._SDXL_Hires_Fix.json) |
-| Workflow - PNG  | [Download](./2._SDXL_Hires_Fix.png)  |
+| File                      | Download                                       |
+| ------------------------- | ---------------------------------------------- |
+| Workflow - JSON           | [Download](./2._SDXL_Hires_Fix.json)           |
+| Workflow Multipass - JSON | [Download](./2._SDXL_Hires_Fix_multipass.json) |
+| Workflow - PNG            | [Download](./2._SDXL_Hires_Fix.png)            |
+| Workflow Multipass - PNG  | [Download](./2._SDXL_Hires_Fix_multipass.png)  |
 
 ## Image Preview (holds the metadata)
 
